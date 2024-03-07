@@ -1,0 +1,6 @@
+@StreamFileProcess_HostAddress = http://localhost:5062
+
+GET {{StreamFileProcess_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
